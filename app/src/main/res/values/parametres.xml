@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="nombreEssais">20</integer>
+    <integer name="ratioPlusPetit">25</integer>
+    <integer name="ratioPlusGrand">2</integer>
+</resources>

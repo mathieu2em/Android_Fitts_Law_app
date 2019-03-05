@@ -1,0 +1,125 @@
+* cours 3 *lol* 
+** système perceptuel 
+   yeux nez etc.. nbr d'images par secondes grandeur de linformation quon peut catcher a chaque instant
+
+** Système cognitif
+   utilise le contenu de la MT et de la mlt pour prendre des deisions et programmer des actions avec le systeme moteur
+   - composé d'un processeur et de deux memoires
+*** mémoire de travail
+    detient des produits intermediaires de la pensee et des representations produites par le systeme perceptuel
+    
+    composé de sections activées de MLT appelées chunks ( il nY a pas
+    un bloc precis pour cette memoire . cest un mapping . cest dans le
+    reseau de la memoire a long terme qui alloue des blocs temporaires 
+
+    7+-2 chunks sont activés environ pour la memoire de travail lors
+    des elements courants de la vie.
+
+    lire l'Article scientifique a la page 7 de la slide du cours. 
+
+    !!!! quand on travail pour lexam intra et final retelecharger les
+         diapos pour etre sure que je suis a jour!
+
+    experience de symbols qui disparaissent tres vite apres un court
+    moment.
+
+    duree effacement 
+    - temps d'effacement est d'environ 7s pour trois chunks ! 22 34 51
+    - interférence ! : plus difficile de se rappeler un element s'il y
+      a d'autres elements similaires ( chunk activés ) dans la
+      memoire.
+   
+*** memoire a long terme
+    - detient la masse de connaissance 
+    - distinguer entre : faits , procédures , histoire ( faits liés )
+      ( difficile a memoriser les evenements ) 
+    - se compose d'un reseau de chunks liés, les connections du reseau
+      sont des associations ( reseau sémantique )
+
+*** processeur cognitif 
+    - reconnaitre : activer des fragments liés ...
+    
+    c'est pas toujours le meme temps que ca prend pour executer un
+    cycle
+    
+    si on fait pas attention a qqc ca peut prendre bcp de temps 
+
+    si on est stressé on peut reduire le temps des processus cognitifs
+
+    la pratique aide l'optimisation de ce-dit processus.
+    c'est par cycle
+
+    il y a la loi de la pratique exponentielle: 
+        Tn = T_1 * n^{-a}
+        où a > 0 est une constante d'Apprentissage 
+
+** système moteur 
+   traduti des pensees en action
+   action tete-cou, bras-main-doigt
+
+   un cycle de 70 ms avec la borne inferieure
+
+   mouvements qui ont besoin de la vision et de l'interpretation :
+   *boucle fermée*. car cest une une boucle qui recommence 
+
+   mouvement seulement sans processus cognitif : *boucle ouvert*
+
+** pourquoi le mhp est-il utile ?
+
+* theorie de l'information
+** principe d'incertitude
+   le temps de decision augmente avec incertitude: + de cycles cognitifs
+
+** principe du taux variable
+   Tc : temps de cycle 
+        - diminue avec la pratique - plus cour quand plus de charge de tache et infos
+** loi de la pratique exponentielle
+   Tn = T1*n^{-a} 
+       a: constante d'apprentissage
+       
+** La loi de Fitts
+ un modele du mouvement humain
+ developpé 1954 par paul m fitts
+ modelise l'acte de pointer 
+ - tirer des articles defectueurs d'une bande transporteuse
+ - cliquer les icones en utilisant une souris
+***  but 
+modeliser le mouvement du bras et la main vers une cible
++ main à D cm de la cible (distance ou amplitude)
++ la cible mesure S cm de large ( size - tolerance )
++ suppose que le mouvement suit un chemin horizontal droit(1D)
+*** Quantités centrales
++ temps de mouvement (TM) : cb de tps pour atteindre cible ?
++ indice de difficulté (ID) : tache de pointage est-elle difficile ?
+*** Observation principale
+TM est lineaire par rapport a ID
+** loi de hicks 
+temps de decision en fonction du nombre de choix
+** Shannon-Hartley Theorem
+ la capacité C du canal , i.e. , la la limite superieure debit a laquelle 
+
+on va devoir faire une application assez simple qui affiche
+quelquechose , on va mesurer le temps on va esseiller d'arriver a la
+somme des temps d'exécution du newmann chnobel processor 
+
+* TP #7
+  
+**  fichiers json
+fichiers javascript permettant de creer ou dafficher ( pas sur ) des
+objets et des structures 
+
+permet d'encoder des données structurées
+
+https://www.json.org/
+
+** filtrer la nature des erreurs cest pratique
+
+** fsafsdf
+dans le sdk version faut aller jusqua 21
+
+** taille des images
+utiliser le DP pour que la taille reste approximativement semblable
+sur l'ensemble des cellulaires car ils ont tous une resolution de
+pixels differente
+
+

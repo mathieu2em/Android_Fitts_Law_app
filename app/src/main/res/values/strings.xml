@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Devoir2_IFT2905</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <string name="terminé">Terminé!</string>
+    <string name="resultats">Resultats</string>
+    <string name="r_sultats_d_taill_s">Résultats Détaillés:</string>
+    <string name="r_sultats">Résultats:</string>
+    <string name="exporter">Exporter</string>
+    <string name="start">CLIQUEZ POUR COMMENCER</string>
+    <string name="title_activity_main3">Main3Activity</string>
+</resources>
